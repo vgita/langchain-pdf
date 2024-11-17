@@ -1,3 +1,9 @@
 {
-    "cSpell.words": ["devworker", "Pipenv"]
+    "cSpell.words": [
+        "devworker",
+        "langchain",
+        "openai",
+        "Pipenv",
+        "vectorstores"
+    ]
 }
