@@ -1,9 +1,12 @@
 {
     "cSpell.words": [
+        "chatopenai",
         "devworker",
         "langchain",
+        "llms",
         "openai",
         "Pipenv",
+        "pydantic",
         "vectorstores"
     ]
 }
