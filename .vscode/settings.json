@@ -2,6 +2,7 @@
     "cSpell.words": [
         "chatopenai",
         "devworker",
+        "dotenv",
         "langchain",
         "llms",
         "openai",
