@@ -3,6 +3,8 @@
         "chatopenai",
         "devworker",
         "dotenv",
+        "hgetall",
+        "hincrby",
         "langchain",
         "llms",
         "openai",
