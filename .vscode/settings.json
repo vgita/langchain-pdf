@@ -6,6 +6,7 @@
         "hgetall",
         "hincrby",
         "langchain",
+        "langfuse",
         "llms",
         "openai",
         "Pipenv",
